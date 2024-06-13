@@ -1,5 +1,5 @@
 # theory_of_mind
-This is the code I wrote for a group project at KOSMOS (Konstanz summer school modelling social and collective behaviour).
+This is the code I wrote for a group project at KOSMOS.
 
 ## Background
 
